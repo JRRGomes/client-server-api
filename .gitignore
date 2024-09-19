@@ -1,0 +1,16 @@
+# Ignore Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.db
+*.txt
+
+# Ignore compiled Go files
+**/server/server
+**/client/client
+
+# Ignore directories
+/bin/
+/pkg/
